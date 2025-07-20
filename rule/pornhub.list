@@ -1,10 +1,10 @@
 payload:
-  # > Pornhub
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  - DOMAIN-SUFFIX,ads.phncdn.com
-  - DOMAIN-SUFFIX,metrics.pornhub.com
-  - DOMAIN-SUFFIX,ads.pornhub.com
-  - DOMAIN-KEYWORD,ads
+# > Pornhub
+- DOMAIN-SUFFIX,phncdn.com
+- DOMAIN-SUFFIX,phprcdn.com
+- DOMAIN-SUFFIX,pornhub.com
+- DOMAIN-SUFFIX,pornhubpremium.com
+- DOMAIN-SUFFIX,ads.phncdn.com
+- DOMAIN-SUFFIX,metrics.pornhub.com
+- DOMAIN-SUFFIX,ads.pornhub.com
+- DOMAIN-KEYWORD,ads
