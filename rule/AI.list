@@ -1,0 +1,58 @@
+# ===== Claude =====
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
+# ===== Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai
+
+# ===== Grok / xAI =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.com
+
+# ===== Meta AI =====
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+
+# ===== Groq =====
+DOMAIN-SUFFIX,groq.com
+
+# ===== Poe =====
+DOMAIN-SUFFIX,poe.com
+
+# ===== Dify =====
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,difyai.com
+
+# ===== Genspark =====
+DOMAIN-SUFFIX,genspark.ai
+
+# ===== Cursor =====
+DOMAIN-SUFFIX,cursor.sh
+
+# ===== Windsurf =====
+DOMAIN-SUFFIX,windsurf.ai
+DOMAIN-SUFFIX,codeium.com
+
+# ===== Phind =====
+DOMAIN-SUFFIX,phind.com
+
+# ===== You.com =====
+DOMAIN-SUFFIX,you.com
+
+# ===== Character AI =====
+DOMAIN-SUFFIX,character.ai
+
+# ===== Midjourney =====
+DOMAIN-SUFFIX,midjourney.com
+
+# ===== Stability =====
+DOMAIN-SUFFIX,stability.ai
+
+# ===== HuggingFace =====
+DOMAIN-SUFFIX,huggingface.co
+
+# ===== Cohere =====
+DOMAIN-SUFFIX,cohere.ai
