@@ -1,0 +1,31 @@
+# ===== Microsoft Copilot =====
+
+# Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+# Bing AI
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+
+# 微软 AI
+DOMAIN-SUFFIX,copilot.ai
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
+
+# OpenAI 微软侧
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,signalr.net
+
+# 语音/实时
+DOMAIN-SUFFIX,live.com
+
+# Designer
+DOMAIN-SUFFIX,designer.microsoft.com
+
+# 关键字
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,bingai
+
+# 客户端
+PROCESS-NAME,Copilot
