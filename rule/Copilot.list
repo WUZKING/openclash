@@ -3,6 +3,7 @@
 # Copilot
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 
 # Bing AI
 DOMAIN-SUFFIX,bing.com
