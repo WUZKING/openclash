@@ -1,10 +1,48 @@
 payload:
-# > Pornhub
-- DOMAIN-SUFFIX,phncdn.com
-- DOMAIN-SUFFIX,phprcdn.com
-- DOMAIN-SUFFIX,pornhub.com
-- DOMAIN-SUFFIX,pornhubpremium.com
-- DOMAIN-SUFFIX,ads.phncdn.com
-- DOMAIN-SUFFIX,metrics.pornhub.com
-- DOMAIN-SUFFIX,ads.pornhub.com
-- DOMAIN-KEYWORD,ads
+  # Pornhub
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,ads.phncdn.com
+  - DOMAIN-SUFFIX,metrics.pornhub.com
+  - DOMAIN-SUFFIX,ads.pornhub.com
+  - DOMAIN-KEYWORD,ads
+
+  # XNXX
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xvideos.com
+
+  # JAV
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,fanza.com
+
+  # Hentai
+  - DOMAIN-SUFFIX,hanime.tv
+  - DOMAIN-SUFFIX,nhentai.net
+
+  # OnlyFans
+  - DOMAIN-SUFFIX,onlyfans.com
+
+  # Reddit NSFW
+  - DOMAIN-KEYWORD,redgifs
+
+  # 常见
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,xxx
+  - DOMAIN-KEYWORD,hentai
+  - DOMAIN-KEYWORD,成人视频
+  - DOMAIN-KEYWORD,av
+
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,thisav.com
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,avgle.com
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,hanime1.me
