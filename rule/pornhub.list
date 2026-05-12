@@ -8,6 +8,11 @@ payload:
   - DOMAIN-SUFFIX,metrics.pornhub.com
   - DOMAIN-SUFFIX,ads.pornhub.com
   - DOMAIN-KEYWORD,ads
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+
 
   # XNXX
   - DOMAIN-SUFFIX,xnxx.com
