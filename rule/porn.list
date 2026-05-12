@@ -1,6 +1,8 @@
 payload:
 # Pornhub
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhub.org
+DOMAIN-SUFFIX,pornhub.net
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhubpremium.com
@@ -8,6 +10,8 @@ DOMAIN-SUFFIX,ads.phncdn.com
 DOMAIN-SUFFIX,metrics.pornhub.com
 DOMAIN-SUFFIX,ads.pornhub.com
 DOMAIN-KEYWORD,ads
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,phncdn
 
 # XNXX
 DOMAIN-SUFFIX,xnxx.com
