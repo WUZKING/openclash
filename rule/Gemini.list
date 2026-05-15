@@ -2,30 +2,24 @@
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
+
+# Bard（旧）
 DOMAIN-SUFFIX,bard.google.com
 
-# Google AI Studio
-DOMAIN-SUFFIX,makersuite.google.com
+# AI Studio
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+
+# Gemini API
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimakersuite-pa.googleapis.com
 
-# Google API
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN,embeddedassistant.googleapis.com
-DOMAIN,assistant-pa.googleapis.com
-DOMAIN,cloudconfig.googleapis.com
+# Vertex AI
+DOMAIN,vertexai.googleapis.com
 
-# Google AI
+# Google AI Dev
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,vertexai.googleapis.com
-
-# 静态资源
-DOMAIN,fonts.gstatic.com
-DOMAIN,www.gstatic.com
 
 # 关键字
-DOMAIN-KEYWORD,colab-static
 DOMAIN-KEYWORD,gemini
-DOMAIN-KEYWORD,bard
