@@ -1,45 +1,37 @@
 # ===== OpenAI / ChatGPT =====
 
-# 主域
+# 主站
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 
 # API
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,platform.openai.com
+DOMAIN,api.openai.com
+DOMAIN,platform.openai.com
+
+# ChatGPT Apps / GPTs
+DOMAIN-SUFFIX,chatgptusercontent.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # 静态资源
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,cdn.openai.com
-DOMAIN-SUFFIX,files.openai.com
 
-# 登录验证
-DOMAIN-SUFFIX,auth0.com
+# 登录
 DOMAIN-SUFFIX,auth0.openai.com
 
-# 风控验证
+# Arkose 风控
 DOMAIN-SUFFIX,arkoselabs.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
 
-# 遥测/统计
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,sentry.io
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN,challenges.cloudflare.com
 
-# 客服/支付
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,stripe.com
-
-# Azure/OpenAI
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-
-# 语音/实时
+# 实时/语音
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 
-# 关键字
+# OpenAI Realtime
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 
