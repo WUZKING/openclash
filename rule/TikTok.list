@@ -1,32 +1,60 @@
-# TikTok 主站
+# ===== TikTok =====
+
+# 主站
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktokmusic.app
 
-# CDN
+# TikTok Shop
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,tiktokshop.com
+DOMAIN-SUFFIX,tiktokglobalshop.com
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+
+# TikTok CDN
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+
+# ByteDance 海外
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,byteoversea.net
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytefcdn-oversea.com
+DOMAIN-SUFFIX,byteintlapi.com
+DOMAIN-SUFFIX,bytegecko-i18n.com
+DOMAIN-SUFFIX,bytedapm.com
+
+# 图片/资源/CDN
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,muscdn.com
 
-# ByteDance
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,byteoversea.net
-DOMAIN-SUFFIX,byteimg.com
-
-# Shop
-DOMAIN-SUFFIX,tiktokshop.com
-DOMAIN-SUFFIX,tiktokglobalshop.com
-DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,tiktokrow-cdn.com
-
-# API
+# API / SDK / 统计
 DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,trae-api-sg.mchost.guru
+
+# CapCut / AI
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+
+# WebView
+DOMAIN-SUFFIX,ttwebview.com
+
+# Shop / Commerce
+DOMAIN-KEYWORD,tiktokshop
+DOMAIN-KEYWORD,commerce
+
+# 客户端
+PROCESS-NAME,com.zhiliaoapp.musically
