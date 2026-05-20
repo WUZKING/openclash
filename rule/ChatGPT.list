@@ -48,9 +48,6 @@ DOMAIN,client-api.arkoselabs.com
 DOMAIN,challenges.cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 
-# 不建议加：
-# DOMAIN-SUFFIX,cloudflare.com
-
 # ----------------------
 # 语音 / Realtime
 # ----------------------
