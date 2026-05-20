@@ -1,16 +1,19 @@
 # ===== Claude =====
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
+
+# Claude API
+DOMAIN,api.anthropic.com
 
 # ===== Perplexity =====
 DOMAIN-SUFFIX,perplexity.ai
 
-# ===== Grok / xAI =====
+# ===== xAI / Grok =====
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.com
+
+# Grok in X(Twitter)
+DOMAIN,api.x.ai
 
 # ===== Meta AI =====
 DOMAIN-SUFFIX,meta.ai
@@ -32,7 +35,10 @@ DOMAIN-SUFFIX,genspark.ai
 # ===== Cursor =====
 DOMAIN-SUFFIX,cursor.sh
 
-# ===== Windsurf =====
+# Cursor API / Update
+DOMAIN-SUFFIX,cursorapi.com
+
+# ===== Windsurf / Codeium =====
 DOMAIN-SUFFIX,windsurf.ai
 DOMAIN-SUFFIX,codeium.com
 
@@ -54,5 +60,11 @@ DOMAIN-SUFFIX,stability.ai
 # ===== HuggingFace =====
 DOMAIN-SUFFIX,huggingface.co
 
+# Inference API
+DOMAIN,inference.huggingface.co
+
 # ===== Cohere =====
 DOMAIN-SUFFIX,cohere.ai
+
+# API
+DOMAIN,api.cohere.ai
