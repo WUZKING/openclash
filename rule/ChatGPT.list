@@ -1,40 +1,91 @@
 # ===== OpenAI / ChatGPT =====
 
+# ----------------------
 # 主站
+# ----------------------
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 
+# ----------------------
 # API
+# ----------------------
 DOMAIN,api.openai.com
 DOMAIN,platform.openai.com
 
+# ----------------------
 # ChatGPT Apps / GPTs
+# ----------------------
 DOMAIN-SUFFIX,chatgptusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
+
+# 文件 / 图片 / 附件
+DOMAIN-SUFFIX,files.openai.com
 
 # 静态资源
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,cdn.openai.com
 
+# ----------------------
 # 登录
+# ----------------------
 DOMAIN-SUFFIX,auth0.openai.com
 
+# Apple 登录可能用到
+DOMAIN-SUFFIX,appleid.apple.com
+
+# Google 登录可能用到
+DOMAIN-SUFFIX,accounts.google.com
+
+# ----------------------
 # Arkose 风控
+# ----------------------
 DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN,client-api.arkoselabs.com
 
-# Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareinsights.com
+# ----------------------
+# Cloudflare 验证
+# ----------------------
 DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 
-# 实时/语音
+# 不建议加：
+# DOMAIN-SUFFIX,cloudflare.com
+
+# ----------------------
+# 语音 / Realtime
+# ----------------------
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 
-# OpenAI Realtime
+# WebRTC/STUN
+DOMAIN-SUFFIX,host.livekit.cloud
+
+# ----------------------
+# OpenAI CDN / 加速
+# ----------------------
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+# ----------------------
+# Apps 内嵌第三方内容
+# ----------------------
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+
+# ----------------------
+# 遥测 / 实验
+# ----------------------
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+
+# ----------------------
+# 关键字（放最后）
+# ----------------------
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 
+# ----------------------
 # 客户端
+# ----------------------
 PROCESS-NAME,ChatGPT
 PROCESS-NAME,OpenAI
