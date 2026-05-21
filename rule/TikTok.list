@@ -1,6 +1,8 @@
 # ===== TikTok =====
 
-# 主站
+# =========================
+# 主站 / App
+# =========================
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
@@ -9,52 +11,87 @@ DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktokmusic.app
 
+# =========================
 # TikTok Shop
+# =========================
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,tiktokshop.com
 DOMAIN-SUFFIX,tiktokglobalshop.com
+DOMAIN-SUFFIX,tiktokglobalshop.net
 DOMAIN-SUFFIX,tiktokrow-cdn.com
 
+# =========================
 # TikTok CDN
+# =========================
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 
+# =========================
 # ByteDance 海外
+# =========================
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytefcdn-oversea.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
+DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,ibytedapm.com
 
-# 图片/资源/CDN
+# =========================
+# 图片 / 商品资源 / CDN
+# =========================
 DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,byteimg-b.com
 DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,tosshub.com
 DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,akamaized.net
 
+# =========================
 # API / SDK / 统计
+# =========================
 DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,tik-tokapi.com
+
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,trae-api-sg.mchost.guru
 
-# CapCut / AI
+# =========================
+# CapCut / 字节 AI
+# =========================
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,trae.ai
 
+# =========================
 # WebView
+# =========================
 DOMAIN-SUFFIX,ttwebview.com
 
-# Shop / Commerce
+# =========================
+# TikTok Shop / Commerce
+# =========================
 DOMAIN-KEYWORD,tiktokshop
 DOMAIN-KEYWORD,commerce
 
+# =========================
+# TikTok 关键字
+# =========================
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,musical
+DOMAIN-KEYWORD,byteimg
+DOMAIN-KEYWORD,pstatp
+DOMAIN-KEYWORD,bytetos
+
+# =========================
 # 客户端
+# =========================
 PROCESS-NAME,com.zhiliaoapp.musically
