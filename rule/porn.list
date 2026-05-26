@@ -1,60 +1,52 @@
 payload:
-# Pornhub
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhub.org
-DOMAIN-SUFFIX,pornhub.net
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-SUFFIX,ads.phncdn.com
-DOMAIN-SUFFIX,metrics.pornhub.com
-DOMAIN-SUFFIX,ads.pornhub.com
-DOMAIN-KEYWORD,ads
-DOMAIN-KEYWORD,pornhub
-DOMAIN-KEYWORD,phncdn
 
-# XNXX
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideo.cc
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideos.es
-DOMAIN-KEYWORD,xvideos
-DOMAIN-KEYWORD,xnxx
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xhcdn.com
-DOMAIN-KEYWORD,xhamster
+# ===== Pornhub =====
+- DOMAIN-SUFFIX,pornhub.com
+- DOMAIN-SUFFIX,pornhub.org
+- DOMAIN-SUFFIX,pornhub.net
+- DOMAIN-SUFFIX,pornhubpremium.com
+- DOMAIN-SUFFIX,phncdn.com
+- DOMAIN-SUFFIX,phprcdn.com
 
-# JAV
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,fanza.com
+# ===== XVideos / XNXX =====
+- DOMAIN-SUFFIX,xvideos.com
+- DOMAIN-SUFFIX,xvideos.es
+- DOMAIN-SUFFIX,xvideos-cdn.com
+- DOMAIN-SUFFIX,xvideo.cc
+- DOMAIN-SUFFIX,xnxx.com
 
-# Hentai
-DOMAIN-SUFFIX,hanime.tv
-DOMAIN-SUFFIX,nhentai.net
+# ===== XHamster =====
+- DOMAIN-SUFFIX,xhamster.com
+- DOMAIN-SUFFIX,xhcdn.com
 
-# OnlyFans
-DOMAIN-SUFFIX,onlyfans.com
+# ===== JAV =====
+- DOMAIN-SUFFIX,javdb.com
+- DOMAIN-SUFFIX,javbus.com
+- DOMAIN-SUFFIX,dmm.co.jp
+- DOMAIN-SUFFIX,fanza.com
+- DOMAIN-SUFFIX,missav.com
+- DOMAIN-SUFFIX,thisav.com
+- DOMAIN-SUFFIX,avgle.com
 
-# Reddit NSFW
-DOMAIN-KEYWORD,redgifs
+# ===== Jable =====
+- DOMAIN-SUFFIX,jable.tv
 
-# 常见
-DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,xxx
-DOMAIN-KEYWORD,hentai
-DOMAIN-KEYWORD,成人视频
-DOMAIN-KEYWORD,av
+# ===== 91Porn =====
+- DOMAIN-SUFFIX,91porn.com
 
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,thisav.com
-DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,avgle.com
-DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,18comic.org
-DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,hanime1.me
+# ===== Hentai =====
+- DOMAIN-SUFFIX,hanime.tv
+- DOMAIN-SUFFIX,hanime1.me
+- DOMAIN-SUFFIX,nhentai.net
+- DOMAIN-SUFFIX,e-hentai.org
+- DOMAIN-SUFFIX,exhentai.org
+
+# ===== Comic =====
+- DOMAIN-SUFFIX,18comic.vip
+- DOMAIN-SUFFIX,18comic.org
+
+# ===== OnlyFans =====
+- DOMAIN-SUFFIX,onlyfans.com
+
+# ===== Reddit NSFW =====
+- DOMAIN-SUFFIX,redgifs.com
