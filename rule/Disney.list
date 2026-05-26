@@ -1,12 +1,12 @@
 # ===== Disney+ =====
 
-# ===== 主站 =====
+# 主站
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,streamingdisney.net
 
-# ===== Disney API / 登录 / 鉴权 =====
+# API / 鉴权
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dssedge.com
@@ -14,26 +14,21 @@ DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
 DOMAIN-SUFFIX,dmed.technology
 
-# ===== Disney CDN / 视频 =====
+# CDN
 DOMAIN-SUFFIX,disneyplus.bn5x.net
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,starott.com
 DOMAIN-SUFFIX,hotstar-cdn.net
 
-# ===== Hotstar / Star =====
+# Hotstar / Star
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
 DOMAIN-SUFFIX,starplus.com
 
-# ===== Disney 静态资源 =====
-DOMAIN-SUFFIX,disney-plus.net
+# 登录
 DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
 
-# ===== Disney 风控 / 遥测 =====
-DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,braze.com
-
-# ===== Disney App =====
+# 客户端
 PROCESS-NAME,com.disney.disneyplus
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
