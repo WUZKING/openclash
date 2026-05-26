@@ -1,0 +1,36 @@
+# ===== HBO / Max =====
+
+# 主站
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbogo.com
+
+# HBO Asia
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.sg
+DOMAIN-SUFFIX,hbogoasia.tw
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbogoasia.ph
+
+# API / GraphQL
+DOMAIN-SUFFIX,api.max.com
+DOMAIN-KEYWORD,discomax
+
+# Warner
+DOMAIN-SUFFIX,warnermediacdn.com
+DOMAIN-SUFFIX,wmcdp.io
+
+# CDN
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,boltdns.net
+
+# 登录 / 用户系统
+DOMAIN-KEYWORD,hbomax
+DOMAIN-KEYWORD,hbo
+
+# 客户端
+PROCESS-NAME,com.hbo.hbonow
