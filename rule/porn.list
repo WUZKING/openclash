@@ -27,9 +27,15 @@ payload:
 - DOMAIN-SUFFIX,missav.com
 - DOMAIN-SUFFIX,thisav.com
 - DOMAIN-SUFFIX,avgle.com
+- DOMAIN-SUFFIX,supjav.com
+- DOMAIN-SUFFIX,netflav.com
 
 # ===== Jable =====
 - DOMAIN-SUFFIX,jable.tv
+
+# ===== FC2 =====
+- DOMAIN-SUFFIX,fc2.com
+- DOMAIN-SUFFIX,fc2ppv.tv
 
 # ===== 91Porn =====
 - DOMAIN-SUFFIX,91porn.com
@@ -50,3 +56,8 @@ payload:
 
 # ===== Reddit NSFW =====
 - DOMAIN-SUFFIX,redgifs.com
+
+# ===== Cam =====
+- DOMAIN-SUFFIX,chaturbate.com
+- DOMAIN-SUFFIX,stripchat.com
+- DOMAIN-SUFFIX,bongacams.com
