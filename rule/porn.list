@@ -1,63 +1,63 @@
 payload:
 
 # ===== Pornhub =====
-- DOMAIN-SUFFIX,pornhub.com
-- DOMAIN-SUFFIX,pornhub.org
-- DOMAIN-SUFFIX,pornhub.net
-- DOMAIN-SUFFIX,pornhubpremium.com
-- DOMAIN-SUFFIX,phncdn.com
-- DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhub.org
+DOMAIN-SUFFIX,pornhub.net
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
 
 # ===== XVideos / XNXX =====
-- DOMAIN-SUFFIX,xvideos.com
-- DOMAIN-SUFFIX,xvideos.es
-- DOMAIN-SUFFIX,xvideos-cdn.com
-- DOMAIN-SUFFIX,xvideo.cc
-- DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos.es
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideo.cc
+DOMAIN-SUFFIX,xnxx.com
 
 # ===== XHamster =====
-- DOMAIN-SUFFIX,xhamster.com
-- DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhcdn.com
 
 # ===== JAV =====
-- DOMAIN-SUFFIX,javdb.com
-- DOMAIN-SUFFIX,javbus.com
-- DOMAIN-SUFFIX,dmm.co.jp
-- DOMAIN-SUFFIX,fanza.com
-- DOMAIN-SUFFIX,missav.com
-- DOMAIN-SUFFIX,thisav.com
-- DOMAIN-SUFFIX,avgle.com
-- DOMAIN-SUFFIX,supjav.com
-- DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,fanza.com
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,supjav.com
+DOMAIN-SUFFIX,netflav.com
 
 # ===== Jable =====
-- DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,jable.tv
 
 # ===== FC2 =====
-- DOMAIN-SUFFIX,fc2.com
-- DOMAIN-SUFFIX,fc2ppv.tv
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fc2ppv.tv
 
 # ===== 91Porn =====
-- DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,91porn.com
 
 # ===== Hentai =====
-- DOMAIN-SUFFIX,hanime.tv
-- DOMAIN-SUFFIX,hanime1.me
-- DOMAIN-SUFFIX,nhentai.net
-- DOMAIN-SUFFIX,e-hentai.org
-- DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
 
 # ===== Comic =====
-- DOMAIN-SUFFIX,18comic.vip
-- DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
 
 # ===== OnlyFans =====
-- DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,onlyfans.com
 
 # ===== Reddit NSFW =====
-- DOMAIN-SUFFIX,redgifs.com
+DOMAIN-SUFFIX,redgifs.com
 
 # ===== Cam =====
-- DOMAIN-SUFFIX,chaturbate.com
-- DOMAIN-SUFFIX,stripchat.com
-- DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,bongacams.com
