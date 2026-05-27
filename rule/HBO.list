@@ -17,8 +17,8 @@ DOMAIN-SUFFIX,hbogoasia.id
 DOMAIN-SUFFIX,hbogoasia.ph
 
 # API / GraphQL
-DOMAIN-SUFFIX,api.max.com
-DOMAIN-KEYWORD,discomax
+DOMAIN,api.max.com
+DOMAIN-SUFFIX,discomax.com
 
 # Warner
 DOMAIN-SUFFIX,warnermediacdn.com
@@ -27,10 +27,6 @@ DOMAIN-SUFFIX,wmcdp.io
 # CDN
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,boltdns.net
-
-# 登录 / 用户系统
-DOMAIN-KEYWORD,hbomax
-DOMAIN-KEYWORD,hbo
 
 # 客户端
 PROCESS-NAME,com.hbo.hbonow
