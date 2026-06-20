@@ -4,8 +4,9 @@ payload:
 - DOMAIN,youtubei.googleapis.com
 - DOMAIN,youtube.googleapis.com
 
-# 用户头像
+# 用户头像 / 社区图片
 - DOMAIN,yt3.ggpht.com
+- DOMAIN-SUFFIX,ggpht.com
 
 # 视频CDN
 - DOMAIN-SUFFIX,googlevideo.com
@@ -13,21 +14,13 @@ payload:
 - DOMAIN-SUFFIX,gvt2.com
 
 # 缩略图
+- DOMAIN,i.ytimg.com
 - DOMAIN-SUFFIX,ytimg.com
 
 # 主站
 - DOMAIN-SUFFIX,youtube.com
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,youtube-nocookie.com
-
-# Shorts
-- DOMAIN-SUFFIX,shorts.youtube.com
-
-# Music
-- DOMAIN-SUFFIX,music.youtube.com
-
-# Studio
-- DOMAIN-SUFFIX,studio.youtube.com
 
 # TV
 - DOMAIN-SUFFIX,youtubetv.com
