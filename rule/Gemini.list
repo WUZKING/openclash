@@ -1,46 +1,46 @@
 payload:
 
 # ===== Gemini Web =====
-- DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com
 
 # ===== Bard（兼容旧域名）=====
-- DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,bard.google.com
 
 # ===== AI Studio =====
-- DOMAIN-SUFFIX,aistudio.google.com
-- DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
 
 # ===== Gemini API =====
-- DOMAIN,generativelanguage.googleapis.com
-- DOMAIN,alkalimakersuite-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.googleapis.com
 
 # ===== Gemini Backend =====
-- DOMAIN,assistant-pa.googleapis.com
-- DOMAIN,embeddedassistant.googleapis.com
-- DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,assistant-pa.googleapis.com
+DOMAIN,embeddedassistant.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
 
 # ===== Gemini History / Sync =====
-- DOMAIN,content-push.googleapis.com
+DOMAIN,content-push.googleapis.com
 
 # ===== Google Account =====
-- DOMAIN,oauthaccountmanager.googleapis.com
-- DOMAIN,oauth2.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,oauth2.googleapis.com
 
 # ===== Gemini Mobile =====
-- DOMAIN,mobileassistant-pa.googleapis.com
-- DOMAIN,people-pa.googleapis.com
-- DOMAIN,jnn-pa.googleapis.com
+DOMAIN,mobileassistant-pa.googleapis.com
+DOMAIN,people-pa.googleapis.com
+DOMAIN,jnn-pa.googleapis.com
 
 # ===== Firebase =====
-- DOMAIN,firebaseinstallations.googleapis.com
-- DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 
 # ===== Gemini / Google AI =====
-- DOMAIN-SUFFIX,ai.google.dev
-- DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.google
 
 # ===== Gemini Static =====
-- DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # ===== Gemini Keywords =====
-- DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,gemini
