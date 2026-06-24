@@ -4,16 +4,16 @@ payload:
 DOMAIN,youtubei.googleapis.com
 DOMAIN,youtube.googleapis.com
 
-# 用户头像 / 社区图片
+# 头像
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleusercontent.com
 
-# 视频CDN
+# 视频
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 
-# 缩略图
+# 图片
 DOMAIN,i.ytimg.com
 DOMAIN-SUFFIX,ytimg.com
 
@@ -21,6 +21,12 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
+
+# Music
+DOMAIN-SUFFIX,music.youtube.com
+
+# Studio
+DOMAIN-SUFFIX,studio.youtube.com
 
 # TV
 DOMAIN-SUFFIX,youtubetv.com
