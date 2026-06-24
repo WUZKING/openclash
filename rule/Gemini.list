@@ -1,4 +1,6 @@
-# Gemini
+payload:
+
+# Gemini Web
 DOMAIN-SUFFIX,gemini.google.com
 
 # Gemini API
@@ -7,16 +9,21 @@ DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,embeddedassistant.googleapis.com
 
-# 历史会话
+# 历史会话 / 同步
 DOMAIN,content-push.googleapis.com
+DOMAIN,people-pa.googleapis.com
 
 # 登录
 DOMAIN,oauthaccountmanager.googleapis.com
-DOMAIN,people-pa.googleapis.com
+
+# Gemini App 常见接口
+DOMAIN,oauth2.googleapis.com
+DOMAIN,accounts.google.com
 
 # Firebase
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseappcheck.googleapis.com
 
 # AI Studio
 DOMAIN-SUFFIX,aistudio.google.com
@@ -26,8 +33,12 @@ DOMAIN,alkalimakersuite-pa.googleapis.com
 # Vertex AI
 DOMAIN,vertexai.googleapis.com
 
-# AI
+# Google AI Developer
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,deepmind.google
 
+# Gemini 新版后端（部分地区出现）
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+# Gemini Keyword
 DOMAIN-KEYWORD,gemini
