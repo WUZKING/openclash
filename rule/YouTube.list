@@ -1,39 +1,28 @@
 payload:
 
-# API
 DOMAIN,youtubei.googleapis.com
 DOMAIN,youtube.googleapis.com
 
-# 头像
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,googleusercontent.com
 
-# 视频
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-
-# 图片
-DOMAIN,i.ytimg.com
-DOMAIN-SUFFIX,ytimg.com
-
-# 主站
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 
-# Music
-DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
 
-# Studio
-DOMAIN-SUFFIX,studio.youtube.com
+DOMAIN,i.ytimg.com
+DOMAIN-SUFFIX,ytimg.com
 
-# TV
+DOMAIN,music.youtube.com
+DOMAIN,studio.youtube.com
+
 DOMAIN-SUFFIX,youtubetv.com
-
-# 其他
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubeeducation.com
+
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,yt.be
