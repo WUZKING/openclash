@@ -1,44 +1,44 @@
 payload:
 
-# Gemini Web
+# ===== Gemini Web =====
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
 
-# Gemini API
+# ===== Gemini API & 核心长连接 =====
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,embeddedassistant.googleapis.com
 
-# 历史会话 / 同步
+# ===== 修复 iOS App 历史会话与登录的关键底层验证 =====
+DOMAIN,play.googleapis.com
+DOMAIN,googleconfig.googleapis.com
+DOMAIN,speech.googleapis.com
+DOMAIN,clients3.google.com
+DOMAIN,clients4.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+# ===== 历史会话 / 同步 =====
 DOMAIN,content-push.googleapis.com
 DOMAIN,people-pa.googleapis.com
 
-# 登录
+# ===== 登录与账号基础设施 =====
 DOMAIN,oauthaccountmanager.googleapis.com
-
-# Gemini App 常见接口
 DOMAIN,oauth2.googleapis.com
 DOMAIN,accounts.google.com
 
-# Firebase
+# ===== Firebase (App 核心推送与日志) =====
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseappcheck.googleapis.com
 
-# AI Studio
+# ===== AI Studio & Developer =====
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,alkalimakersuite-pa.googleapis.com
-
-# Vertex AI
 DOMAIN,vertexai.googleapis.com
-
-# Google AI Developer
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,deepmind.google
 
-# Gemini 新版后端（部分地区出现）
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-
-# Gemini Keyword
+# ===== Gemini Keyword =====
 DOMAIN-KEYWORD,gemini
