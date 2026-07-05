@@ -18,6 +18,20 @@ DOMAIN,clients3.google.com
 DOMAIN,clients4.google.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 
+# ===== 彻底拦截 Google 移动端硬核风控与环境审查 =====
+
+# 1. 谷歌移动端安全与风控核心（iOS 客户端最常调用的隐藏接口）
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,google-analytics.com
+
+# 2. 谷歌全局认证与服务配置（全域后缀，防止 App 绕过精准域名）
+DOMAIN-SUFFIX,googleapis.com.cn
+DOMAIN-SUFFIX,googlesyndication.com
+
+# 3. 补充可能漏掉的 API 细分域名
+DOMAIN,mobile-gtm.googleapis.com
+DOMAIN,securetoken.googleapis.com
+
 # ===== 历史会话 / 同步 =====
 DOMAIN,content-push.googleapis.com
 DOMAIN,people-pa.googleapis.com
