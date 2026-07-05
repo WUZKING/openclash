@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,pornhub.net
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,phncdn.net
+DOMAIN-SUFFIX,phncdn.org
+DOMAIN-SUFFIX,cdnph.com
 
 # ===== XVideos / XNXX =====
 DOMAIN-SUFFIX,xvideos.com
@@ -61,3 +64,11 @@ DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,bongacams.com
+
+# Ads / Auth
+DOMAIN-SUFFIX,trafficjunky.net
+DOMAIN-SUFFIX,trafficfactory.biz
+DOMAIN-SUFFIX,adtng.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,tsyndicate.com
+DOMAIN-SUFFIX,exosrv.com
