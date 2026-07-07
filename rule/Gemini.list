@@ -32,6 +32,15 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN,mobile-gtm.googleapis.com
 DOMAIN,securetoken.googleapis.com
 
+# 谷歌全局核心静态资源与策略（App 初始化最关键的底层，BlackMatrix7 里的核心）
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,google.dev
+
+# 谷歌底层全局 API 细分（App 本地化认证与安全凭证组件）
+DOMAIN-SUFFIX,google-apis.com
+DOMAIN,identitytoolkit.googleapis.com
+DOMAIN,securetoken.google.com
+
 # ===== 历史会话 / 同步 =====
 DOMAIN,content-push.googleapis.com
 DOMAIN,people-pa.googleapis.com
