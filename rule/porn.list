@@ -5,11 +5,30 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornhub.net
 DOMAIN-SUFFIX,pornhubpremium.com
+
+# ===== Porn CDN =====
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phncdn.net
 DOMAIN-SUFFIX,phncdn.org
+DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,cdnph.com
+DOMAIN-SUFFIX,xxxjmp.com
+DOMAIN-SUFFIX,doppiocdn.com
+
+# ===== 必须补充的 Pornhub 视频流与播放器核心 =====
+DOMAIN-SUFFIX,phncdn-premium.com
+DOMAIN-SUFFIX,pornhub-premium.com
+DOMAIN-SUFFIX,pornhub.club
+DOMAIN-SUFFIX,pornhub.com.edgesuite.net
+DOMAIN-SUFFIX,phncdn.com.edgesuite.net
+
+# 专门负责播放器内核（Video Player）与流媒体分发的底层 CDN（最关键）
+DOMAIN-KEYWORD,phncdn
+DOMAIN-KEYWORD,phprcdn
+
+# 谷歌广告与视频流交叉验证（部分浏览器播放器依赖此接口握手）
+#DOMAIN,doubleclick.net
+#DOMAIN,googleads.g.doubleclick.net
 
 # ===== XVideos / XNXX =====
 DOMAIN-SUFFIX,xvideos.com
