@@ -1,93 +1,127 @@
 payload:
 
-# ===== Pornhub =====
+# Pornhub
+# ==========================================
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornhub.net
-DOMAIN-SUFFIX,pornhubpremium.com
 
-# ===== Porn CDN =====
+# Pornhub CDN
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phncdn.net
 DOMAIN-SUFFIX,phncdn.org
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,cdnph.com
+
+# Pornhub 新版 CDN（2025~）
 DOMAIN-SUFFIX,xxxjmp.com
 DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,growcdnssedge.com
+DOMAIN-SUFFIX,sacdnssedge.com
 
-# ===== 必须补充的 Pornhub 视频流与播放器核心 =====
-DOMAIN-SUFFIX,phncdn-premium.com
-DOMAIN-SUFFIX,pornhub-premium.com
-DOMAIN-SUFFIX,pornhub.club
-DOMAIN-SUFFIX,pornhub.com.edgesuite.net
-DOMAIN-SUFFIX,phncdn.com.edgesuite.net
-
-# 专门负责播放器内核（Video Player）与流媒体分发的底层 CDN（最关键）
-DOMAIN-KEYWORD,phncdn
-DOMAIN-KEYWORD,phprcdn
-
-# 谷歌广告与视频流交叉验证（部分浏览器播放器依赖此接口握手）
-#DOMAIN,doubleclick.net
-#DOMAIN,googleads.g.doubleclick.net
-
-# ===== XVideos / XNXX =====
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideos.es
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideo.cc
-DOMAIN-SUFFIX,xnxx.com
-
-# ===== XHamster =====
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xhcdn.com
-
-# ===== JAV =====
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,fanza.com
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,thisav.com
-DOMAIN-SUFFIX,avgle.com
-DOMAIN-SUFFIX,supjav.com
-DOMAIN-SUFFIX,netflav.com
-
-# ===== Jable =====
-DOMAIN-SUFFIX,jable.tv
-
-# ===== FC2 =====
-DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,fc2ppv.tv
-
-# ===== 91Porn =====
-DOMAIN-SUFFIX,91porn.com
-
-# ===== Hentai =====
-DOMAIN-SUFFIX,hanime.tv
-DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,nhentai.net
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,exhentai.org
-
-# ===== Comic =====
-DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,18comic.org
-
-# ===== OnlyFans =====
-DOMAIN-SUFFIX,onlyfans.com
-
-# ===== Reddit NSFW =====
-DOMAIN-SUFFIX,redgifs.com
-
-# ===== Cam =====
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,bongacams.com
-
-# Ads / Auth
+# Pornhub 广告 / 登录
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,adtng.com
 DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,exosrv.com
+
+# XVideos / XNXX
+# ==========================================
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos.es
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideo.cc
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+
+# XHamster
+# ==========================================
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhcdn.com
+
+# JAV
+# ==========================================
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javbus.com
+
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,fanza.com
+
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,supjav.com
+DOMAIN-SUFFIX,netflav.com
+
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,jav321.com
+DOMAIN-SUFFIX,jav.guru
+DOMAIN-SUFFIX,javmost.com
+DOMAIN-SUFFIX,javhd.com
+
+# Jable
+# ==========================================
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,jablehk.com
+
+# FC2
+# ==========================================
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fc2ppv.tv
+DOMAIN-SUFFIX,adult.contents.fc2.com
+
+# 91Porn
+# ==========================================
+DOMAIN-SUFFIX,91porn.com
+
+# Hentai
+# ==========================================
+
+DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+
+# Comic
+# ==========================================
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
+
+# OnlyFans
+# ==========================================
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,onlyfansusercontent.com
+DOMAIN-SUFFIX,onflow.co
+
+# Fansly
+# ==========================================
+DOMAIN-SUFFIX,fansly.com
+
+# Reddit NSFW
+# ==========================================
+DOMAIN-SUFFIX,redgifs.com
+
+# Cam Sites
+# ==========================================
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,cam4.com
+DOMAIN-SUFFIX,livejasmin.com
+
+# Tube Sites
+# ==========================================
+DOMAIN-SUFFIX,eporner.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,youporn.com
+DOMAIN-SUFFIX,tube8.com
+
+# Rule34 / Booru
+# ==========================================
+DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,danbooru.donmai.us
