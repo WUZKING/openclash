@@ -20,6 +20,24 @@ DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,growcdnssedge.com
 DOMAIN-SUFFIX,sacdnssedge.com
 
+# ===== 解决首帧加载慢、秒开的关键商业 CDN 别名 =====
+DOMAIN-SUFFIX,rnwsvc.com
+DOMAIN-SUFFIX,stripcdn.com
+DOMAIN-SUFFIX,contentdef.com
+DOMAIN-SUFFIX,pbcdn.com
+DOMAIN-SUFFIX,phncdn.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,pornhub.com.cdn.cloudflare.net
+
+# ===== 核心流媒体长连接与多路复用保活（解决一直转圈或起步慢） =====
+DOMAIN-KEYWORD,ssedge
+DOMAIN-KEYWORD,edgesuite
+DOMAIN-KEYWORD,fastly
+
+# ===== 播放器跨域授权与第三方核心框架 =====
+DOMAIN-SUFFIX,mgid.com
+DOMAIN-SUFFIX,etahub.com
+DOMAIN-SUFFIX,hubtraffic.com
+
 # Pornhub 广告 / 登录
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,trafficfactory.biz
