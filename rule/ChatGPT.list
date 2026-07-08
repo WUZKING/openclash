@@ -33,9 +33,6 @@ DOMAIN-SUFFIX,auth0.openai.com
 # Apple 登录可能用到
 DOMAIN-SUFFIX,appleid.apple.com
 
-# Google 登录可能用到
-DOMAIN-SUFFIX,accounts.google.com
-
 # ----------------------
 # Arkose 风控
 # ----------------------
