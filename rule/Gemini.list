@@ -1,49 +1,22 @@
-payload:
-
-# ===== Gemini Web =====
+# Gemini
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 
-# ===== Gemini API & 核心长连接 =====
+# AI Studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.google
+
+# Gemini Backend
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,embeddedassistant.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-
-# ===== 修复 iOS App 历史会话与登录的关键底层验证 =====
-DOMAIN,play.googleapis.com
-DOMAIN,googleconfig.googleapis.com
-DOMAIN,speech.googleapis.com
-DOMAIN,clients3.google.com
-DOMAIN,clients4.google.com
-DOMAIN,identitytoolkit.googleapis.com
-DOMAIN,securetoken.google.com
-DOMAIN,securetoken.googleapis.com
-
-# ===== 阻断移动端安全风控交叉验证 (从大后缀中提炼的精准子域名) =====
-DOMAIN,play-lh.googleusercontent.com
-DOMAIN,lh3.googleusercontent.com
-DOMAIN,mobile-gtm.googleapis.com
-
-# ===== Firebase (App 核心推送、日志与初始化沙盒) =====
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-DOMAIN-SUFFIX,firebaselogging.googleapis.com
-DOMAIN-SUFFIX,firebaseappcheck.googleapis.com
-
-# ===== 登录与账号基础设施 =====
-DOMAIN,oauthaccountmanager.googleapis.com
-DOMAIN,oauth2.googleapis.com
-DOMAIN,accounts.google.com
-
-# ===== AI Studio & Developer =====
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,alkalimakersuite-pa.googleapis.com
 DOMAIN,vertexai.googleapis.com
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,deepmind.google
 
-# ===== Gemini Keyword =====
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+
 DOMAIN-KEYWORD,gemini
